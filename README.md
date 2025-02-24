@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/ab8c154a-c376-4711-9e31-d53934a59c74)
+![gdap](https://github.com/user-attachments/assets/5640fc1b-33f3-40c2-956f-ca36b822a0a6)
+# ganjoor-random-poem
 
-# gangoor-random-poem
+
 
 
 ## 📖 Description
@@ -19,15 +20,15 @@ Nodejs package to get random poem from persian poets . This package made from ga
 You can install this package using **npm**:
 
 ```sh
-npm install gangoor-random-poem
+npm install ganjoor-random-poem
 
 ```
 
 or clone the repository manually:
 
 ```sh
-git clone https://github.com/RadinAnsari/gangoor-random-poem.git
-cd gangoor-random-poem
+git clone https://github.com/RadinAnsari/ganjoor-random-poem.git
+cd ganjoor-random-poem
 ```
 
 ---
@@ -35,7 +36,7 @@ cd gangoor-random-poem
 ## 📚 Usage
 ### Import the module and Get poems :
 ```javascript
-const { getRandomPoem } = require('gangoor-random-poem');
+const { getRandomPoem } = require('ganjoor-random-poem');
 
 
 async function displayPoem() {
